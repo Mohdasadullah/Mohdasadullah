@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 🔭 Currently building: **CareConnect** – a smart Hospital Management System  
-- 👨‍💻 Developed **Session Chat** – real-time Web + Android chat app using Firebase  
-- ☁️ Passionate about **Cloud Computing** and **Data Science**  
+- 👨‍💻 Developed **Session Chat** – real-time chat app for Web & Android using Firebase  
+- ☁️ Exploring **Cloud Computing** in **Data Science**  
 - 💬 Ask me about: `MERN Stack`, `Firebase`, `Cloud Hosting`, `Java`, `DSA`  
 - 🎓 Pursuing **B.Tech in Information Technology**  
 - ⚡ Fun fact: Sundays = Cricket with friends 🏏  
@@ -29,26 +29,42 @@
 
 ### 🚀 Featured Projects
 
-- 🏥 [**CareConnect**](#) – Hospital Management System built for better patient-doctor workflow  
-- 💬 [**Session Chat**](#) – Real-time chat app with Web & Android interfaces  
-- ✅ [**ToDo App**](#) – A simple React productivity app  
-- 🎮 [**Memory Match Game**](#) – A fun matching game using vanilla JS  
+- 🏥 [**CareConnect**](#) – Hospital Management System to simplify patient-doctor workflow  
+- 💬 [**Session Chat**](#) – Real-time chat app with Web & Android support  
+- ✅ [**ToDo App**](#) – A simple React-based productivity tracker  
+- 🎮 [**Memory Match Game**](#) – A fun card-matching game using HTML/CSS/JS  
 
 ---
 
 ### 👨‍💼 About Me
 
-- 🛠 Joint Secretary @ Ingenuity – Department Tech Club  
-- 📊 Into building cloud-ready data projects  
-- 👨‍🏫 Mentor for Smart Interviews batch – helping peers with DSA & development  
+- 🛠 Joint Secretary @ Ingenuity – Department’s Technical Club  
+- 👨‍🏫 Mentor for the Smart Interviews batch – helping peers with DSA & Full Stack  
+- 📊 Interested in Cloud-backed data apps and system design  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asadullah00&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asadullah00&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohdasadullah&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohdasadullah&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohdasadullah&theme=algolia&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohdasadullah&theme=react-dark&area=true" />
 </p>
 
 ---
@@ -62,4 +78,4 @@
 
 ---
 
-*Crafting ideas into solutions, one line at a time 💻*
+*Crafting ideas into impact, one project at a time 🚀*
