@@ -5,7 +5,7 @@
 
 - 🔭 Currently building: **CareConnect** – a smart Hospital Management System  
 - 👨‍💻 Developed **Session Chat** – real-time Web + Android chat app using Firebase  
-- ☁️ Passionate about **Cloud Computing** in **Data Science**  
+- ☁️ Passionate about **Cloud Computing** and **Data Science**  
 - 💬 Ask me about: `MERN Stack`, `Firebase`, `Cloud Hosting`, `Java`, `DSA`  
 - 🎓 Pursuing **B.Tech in Information Technology**  
 - ⚡ Fun fact: Sundays = Cricket with friends 🏏  
